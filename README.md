@@ -19,3 +19,7 @@ interested in Web Development and the world of Backend Engineering.
 
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,ts,cpp,js&perline=15)](https://skillicons.dev)
+
+## Backend Technologies
+![sdsd](https://skillicons.dev/icons?i=node,express,mysql,postgres,mongodb,docker,kubernetes,ts,prisma,knex,git,directus&perline=12)
+
