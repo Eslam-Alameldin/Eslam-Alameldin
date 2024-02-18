@@ -4,7 +4,5 @@ interested in Web Development and the world of Backend Engineering.
 
 
 ## Experience
-- Apr 2023 – Present
-  - Backend Developer at Treesal for IT Services and Consulting
-- Sep 2023 – Oct 2023
-  Software Engineer at Scale Ai through Remotasks Platform (Remote).
+- Backend Developer at Treesal for IT Services and Consulting (Apr 2023 – Present)
+- Software Engineer at Scale Ai through Remotasks Platform  (Sep 2023 – Oct 2023)
