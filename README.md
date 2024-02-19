@@ -8,12 +8,11 @@ interested in Web Development and the world of Backend Engineering.
 - Coding AI data collection and prompt/response improvement at Scale Ai through Remotasks Platform  ( Sep 2023 – Nov 2023)
   -  contributed to the development of chatbots targeted at helping programmers. I worked with both general and domain-specific prompts.
   -  My workflow consisted of a subset of the following:
-    
-    - Data creation (novel and authentic)
-    - Prompt generation
-    - Initial response writing
-    - Model's response evaluation and improvement
-    - Multiple responses ranking
+    -- Data creation (novel and authentic)
+    -- Prompt generation
+    -- Initial response writing
+    -- Model's response evaluation and improvement
+    -- Multiple responses ranking
 ## Education
 - Bachelor of Electronic Engineering, Computer Science and Engineering Department, 
  Faculty of Electronic Engineering, Menoufia University, Egypt  (Sep 2018 – Jul 2023)
