@@ -5,6 +5,13 @@ interested in Web Development and the world of Backend Engineering.
 
 ## Experience
 - Backend Developer at Treesal for IT Services and Consulting (Apr 2023 – Present)
+  - Architect, develop, test, and deploy robust backend solutions using Node.js and Express.js
+  - Design and optimize database schemas, queries for efficient data storage and retrieval. Working with relational databases and NoSQL databases.
+  - Design and implement RESTful APIs to enable seamless communication between frontend interfaces and backend systems. Ensure API security, authentication, and authorization mechanisms are implemented effectively.
+  -  Create comprehensive technical documentation for APIs using Swagger and Provide technical support to frontend developers and troubleshoot issues related to backend functionality.
+  -  Utilize version control systems (Git) to manage codebase changes and collaborate effectively with team members. Participate in code reviews, provide constructive feedback, and maintain code quality and consistency.
+
+    
 - Coding AI data collection and prompt/response improvement at Scale Ai through Remotasks Platform  (Sep 2023 – Nov 2023)
   -  contributed to the development of chatbots targeted at helping programmers. I worked with both general and domain-specific prompts. My workflow consisted of a subset of the following:
       - Data creation (novel and authentic)
