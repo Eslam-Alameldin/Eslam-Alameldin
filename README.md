@@ -1,3 +1,7 @@
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Eslam+Alameldin;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
+</h3>
+
 ## Hi, :D
 I'm Eslam, a junior software engineer learning different areas going through the full software life cycle, especially 
 interested in Web Development and the world of Backend Engineering. 
