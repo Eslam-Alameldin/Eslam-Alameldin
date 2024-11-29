@@ -8,7 +8,7 @@
 
 ## Experience
 - Software Engineer at Treesal for IT Services and Consulting (Apr 2023 – Present)
-  - Designed and implemented RESTful APIs to enable seamless communication between frontend interfaces and backend systems using Node.js and Express.js and wrote  comprehensive technical documentation for those APIs using Swagger.
+  - Designed and implemented RESTful APIs to enable seamless communication between frontend interfaces and backend systems using Node.js and Express.js and wrote  comprehensive technical documentation for those       APIs using Swagger.
   -Contributed to build and implement dynamic, responsive, and visually appealing user interfaces using Vue.js ,Vuetify and pinia.
     
 - AI-Assisted Software Developer
