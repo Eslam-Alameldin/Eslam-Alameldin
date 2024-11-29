@@ -29,6 +29,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,ts,cpp,js,python&perline=15)](https://skillicons.dev)
 
-## Backend Technologies
-![sdsd](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,docker,kubernetes,ts,prisma,git,postman,linux&perline=12)
+## Technologies
+![sdsd](https://skillicons.dev/icons?i=nodejs,express,vue,vuetify,mysql,postgres,mongodb,docker,kubernetes,ts,prisma,git,postman,linux&perline=12)
 
