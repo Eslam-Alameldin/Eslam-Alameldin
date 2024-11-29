@@ -3,26 +3,18 @@
 </h3>
 
 ## Hi, :D
-I'm Eslam, a junior software engineer learning different areas going through the full software life cycle, especially 
-interested in Web Development and the world of Backend Engineering. 
+
 
 
 ## Experience
-- Backend Developer at Treesal for IT Services and Consulting (Apr 2023 – Present)
-  - Architect, develop, test, and deploy robust backend solutions using Node.js and Express.js
-  - Design and optimize database schemas, queries for efficient data storage and retrieval. Working with relational databases and NoSQL databases.
-  - Design and implement RESTful APIs to enable seamless communication between frontend interfaces and backend systems. Ensure API security, authentication, and authorization mechanisms are implemented effectively.
-  -  Create comprehensive technical documentation for APIs using Swagger and Provide technical support to frontend developers and troubleshoot issues related to backend functionality.
-  -  Utilize version control systems (Git) to manage codebase changes and collaborate effectively with team members. Participate in code reviews, provide constructive feedback, and maintain code quality and consistency.
-
+- Software Engineer at Treesal for IT Services and Consulting (Apr 2023 – Present)
+  - Designed and implemented RESTful APIs to enable seamless communication between frontend interfaces and backend systems using Node.js and Express.js and wrote  comprehensive technical documentation for those APIs using Swagger.
+  -Contributed to build and implement dynamic, responsive, and visually appealing user interfaces using Vue.js ,Vuetify and pinia.
     
-- Coder and prompt Engineer at Scale Ai through Remotasks Platform  (Sep 2023 – Nov 2023)
-  -  contributed to the development of chatbots targeted at helping programmers. I worked with both general and domain-specific prompts. My workflow consisted of a subset of the following:
-      - Data creation (novel and authentic)
-      - Prompt generation
-      - Initial response writing
-      - Model's response evaluation and improvement
-      - Multiple responses ranking
+- AI-Assisted Software Developer
+  - Developed and optimized code in various languages, ensuring high-quality solutions.
+  - Created and refined prompts to guide AI models in generating accurate code explanations.
+  - Evaluated and improved AI-generated responses through iterative feedback.
       
 ## Education
 - Bachelor of Electronic Engineering, Computer Science and Engineering Department, 
